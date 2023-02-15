@@ -20,7 +20,7 @@ body::before {
   content: "";
   position: fixed;
   background: #040404 url("../img/back.svg") top right no-repeat;
-  background-size:auto;
+  background-size:300px;
   left: 0;
   right: 0;
   top: 0;
